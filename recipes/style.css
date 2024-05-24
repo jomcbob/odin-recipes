@@ -1,0 +1,25 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+p { 
+font-size: autopx;
+}
+
+li { 
+    color: blue;
+}
+
+button {
+    background-color: brown;
+    font-size: 20px;
+}
+
+p {
+    color: burlywood;
+}
+
+ol {
+    background-color: black;
+}
